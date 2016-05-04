@@ -2,7 +2,7 @@
 
 This will contain links to information security related resources.
 
-<h4>INTERNATIONAL JOURAL, PAPERS, CONFERENCE PDFs and PPTs on various topics </h4><br>
+#INTERNATIONAL JOURAL, PAPERS, CONFERENCE PDFs and PPTs on various topics<br>
 <img src="https://iseclab.org/static/iseclab/img/logo.png"><br>
 The International Secure Systems Lab - which comrises top universities as its members. <br>
 https://iseclab.org/papers/<br>
