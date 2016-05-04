@@ -1,4 +1,4 @@
-# infosec-resources
+# Infosec-resources
 
 This will contain links to information security related resources.
 
