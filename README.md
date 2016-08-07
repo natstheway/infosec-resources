@@ -11,7 +11,11 @@ Latest bank related Info sec news <br>
 http://www.bankinfosecurity.com/<br>
 
 #Exploit Writing Tutorials
+Detailed tutorials on Exploit creation can be found here :
 www.corelan.be
+
+Equally good option :
+https://exploit-exercises.com/
 
 #Exploitation Tools :
 
