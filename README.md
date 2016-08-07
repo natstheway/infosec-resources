@@ -10,6 +10,9 @@ https://iseclab.org/papers/<br>
 Latest bank related Info sec news <br>
 http://www.bankinfosecurity.com/<br>
 
+#Exploit Writing Tutorials
+www.corelan.be
+
 #Exploitation Tools :
 
 <h4> SQL MAP : automatic SQL injection and database takeover tool</h4>
@@ -32,3 +35,4 @@ Link : https://crypto.stanford.edu/cs155/syllabus.html<br>
 
 Cybrary.it - Has lot of Cyber Security related courses. Interesting. Do check out.
 Link : www.cybrary.it
+
