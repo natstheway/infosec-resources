@@ -45,3 +45,6 @@ https://github.com/pentestmonkey/windows-privesc-check
 
 List of All pentest tools with linkss -
 https://github.com/enaqx/awesome-pentest
+
+AD Enumeration :
+https://github.com/chango77747/AdEnumerator
